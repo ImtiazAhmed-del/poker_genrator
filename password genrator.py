@@ -8,7 +8,7 @@ print('''Choose character set for password from these :
 		1. Digits
 		2. Letters
 		3. Special characters
-		4. Exit''')
+		4. Exit(''')
 
 characterList = ""
 
